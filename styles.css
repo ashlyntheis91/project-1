@@ -1,0 +1,8 @@
+body {background-color: #D3D3D3;
+color: #4B0082;
+padding-top: 25px}
+table { border-collapse: collapse;
+margin: 15px 0px 10px 0px}
+th {text-align: left}
+td, th {padding: 10px; border: 1px solid #2F4F4F;
+border-width: 3px;}
